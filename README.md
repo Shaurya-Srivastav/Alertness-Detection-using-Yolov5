@@ -6,5 +6,7 @@
 - Made to track user's drowsiness during driving to minimize drowsy driving. 
 - Further changes to be made in future: 
   - run on a raspberry pi attached with a pieze buzzer/speaker system to wake driver up. 
+
+**Training data can be found in "data" folder**
   
 Pictures Below:
