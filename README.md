@@ -1,7 +1,7 @@
 # Alertness-Detection-using-Yolov5
 
 - Built using YoloV5, pytorch and OpenCV.
-- Used coco classes to pre-train model to detect objects vs humans.
+- Used COCO dataset to pre-train model from YoloV5 to detect objects vs humans.
 - Detects "alertness" based on images collected and labeled through labelimg 
 - Made to track user's drowsiness during driving to minimize drowsy driving. 
 - Further changes to be made in future: 
