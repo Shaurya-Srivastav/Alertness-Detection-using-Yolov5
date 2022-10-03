@@ -8,5 +8,6 @@
   - run on a raspberry pi attached with a pieze buzzer/speaker system to wake driver up. 
 
 **Training data can be found in "data" folder**
+- trained for 500 epochs using 20 images
   
 Pictures Below:
